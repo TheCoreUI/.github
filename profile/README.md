@@ -7,8 +7,7 @@ We provide reusable, customizable, and professional components to help developer
 
 ## Repositories
 
-- `coreui-react` – React components library
-- `coreui-docs` – Documentation and examples
+- `CoreUi` – React Tailwind components library
 
 ---
 
