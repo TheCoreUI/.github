@@ -1,12 +1,25 @@
-## Hi there 👋
+# TheCoreUI
 
-<!--
+TheCoreUI is an open-source UI component library for React and modern web frameworks.  
+We provide reusable, customizable, and professional components to help developers build beautiful user interfaces quickly.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repositories
+
+- `coreui-react` – React components library
+- `coreui-docs` – Documentation and examples
+
+---
+
+## Contributing
+
+Contributions are welcome!  
+Please fork the repo, create a branch for your changes, and submit a pull request.
+
+---
+
+## Contact
+
+Email: thecoreui@gmail.com  
+GitHub: [TheCoreUI](https://github.com/TheCoreUI)
